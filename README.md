@@ -1,1 +1,1 @@
-# qgss-2025
+# IBM's Qiskit Global Summer School 2025: The Past, Present, and Future of Quantum Computing
