@@ -7,7 +7,7 @@ This repository contains my solutions to the exercises and challenges from the Q
 
 - 📝 Lecture notes: https://github.com/qiskit-community/qgss-2025-lecture-notes
 
-- 🏅 My Quantum Excellence Badge:
+- 🏅 My Quantum Excellence Badge: https://www.credly.com/badges/8e91c296-c335-46bb-905e-9fd73861df95/public_url 
 
 ## 📂 Structure
 
